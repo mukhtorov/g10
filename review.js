@@ -38,3 +38,8 @@
 //  1 git init
 // git remote add origin URL
 // git remote -v
+
+// PUSH
+// git add .
+// git commit -m 'test'
+// git push origin master
