@@ -43,3 +43,8 @@
 // git add .
 // git commit -m 'test'
 // git push origin master
+
+// branch
+// git branch
+// git branch name
+// git checkout branchName
